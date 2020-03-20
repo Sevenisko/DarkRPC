@@ -1,0 +1,13 @@
+{
+    "name": "cz.sevenisko.darkrpc",
+    "version": "1.0.0",
+    "displayName": "DarkRPC",
+    "description": "Discord RPC client in Unity Editor",
+    "unity": "2019.3",
+    "unityRelease": "1f1",
+    "author": {
+      "name": "Sevenisko",
+      "email": "tommycz795@gmail.com",
+      "url": ""
+    }
+  }
